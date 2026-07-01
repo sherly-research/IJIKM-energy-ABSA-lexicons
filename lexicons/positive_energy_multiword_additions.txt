@@ -1,0 +1,87 @@
+# Positive multiword additions for energy-domain discourse (ID)
+# Format: one phrase per line (lowercase). Keep multiword only.
+# NOTE: These are candidates; validate with corpus frequency + manual audit.
+
+# Reliability & service quality
+listrik stabil
+pasokan stabil
+pasokan lancar
+suplai lancar
+jaringan stabil
+gangguan berkurang
+pemadaman berkurang
+respon cepat
+respons cepat
+pelayanan cepat
+penanganan cepat
+perbaikan cepat
+pemulihan cepat
+pulih cepat
+stabil kembali
+layanan membaik
+pelayanan membaik
+waktu respon cepat
+waktu respons cepat
+
+# Affordability & household economy
+tarif terjangkau
+harga terjangkau
+biaya terjangkau
+tagihan turun
+biaya turun
+hemat biaya
+hemat listrik
+hemat energi
+efisiensi energi
+lebih hemat
+lebih irit
+lebih irit listrik
+biaya lebih rendah
+tagihan lebih ringan
+low cost
+rendah biaya
+
+# Access & equity
+akses meningkat
+akses listrik meningkat
+akses energi meningkat
+peningkatan akses
+listrik merata
+listrik masuk desa
+perluasan akses
+jangkauan luas
+layanan merata
+
+# Transition & environment
+energi bersih
+energi terbarukan
+energi hijau
+ramah lingkungan
+rendah emisi
+emisi berkurang
+polusi berkurang
+pengurangan emisi
+kualitas udara membaik
+lebih hijau
+transisi energi
+transisi energi bersih
+
+# Governance & policy (positive framing)
+subsidi tepat sasaran
+penyaluran tepat sasaran
+transparansi meningkat
+pengawasan ketat
+tata kelola baik
+pelayanan publik membaik
+pelayanan pelanggan membaik
+
+# General positive quality (often energy-related in context)
+kualitas meningkat
+kinerja meningkat
+lebih efisien
+lebih andal
+lebih handal
+lebih stabil
+lebih cepat
+lebih terjangkau
+
